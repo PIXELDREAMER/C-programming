@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\opeol\\source\\repos\\C programming\\Workshop1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{589D7294-3672-4F55-BB08-68E69E7FC374}|Workshop1.vcxproj|C:\\Users\\opeol\\source\\repos\\C programming\\Workshop1\\tempMonitor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{589D7294-3672-4F55-BB08-68E69E7FC374}|Workshop1.vcxproj|solutionrelative:tempMonitor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589D7294-3672-4F55-BB08-68E69E7FC374}|Workshop1.vcxproj|C:\\Users\\opeol\\source\\repos\\C programming\\Workshop1\\cashRegister.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{589D7294-3672-4F55-BB08-68E69E7FC374}|Workshop1.vcxproj|solutionrelative:cashRegister.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 230,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tempMonitor.c",
+              "DocumentMoniker": "C:\\Users\\opeol\\source\\repos\\C programming\\Workshop1\\tempMonitor.c",
+              "RelativeDocumentMoniker": "tempMonitor.c",
+              "ToolTip": "C:\\Users\\opeol\\source\\repos\\C programming\\Workshop1\\tempMonitor.c*",
+              "RelativeToolTip": "tempMonitor.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-18T16:43:23.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cashRegister.c",
+              "DocumentMoniker": "C:\\Users\\opeol\\source\\repos\\C programming\\Workshop1\\cashRegister.c",
+              "RelativeDocumentMoniker": "cashRegister.c",
+              "ToolTip": "C:\\Users\\opeol\\source\\repos\\C programming\\Workshop1\\cashRegister.c",
+              "RelativeToolTip": "cashRegister.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-18T16:39:20.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
